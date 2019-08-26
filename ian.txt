@@ -1,8 +1,6 @@
 <span id="a">user@ian.app</span>:<span id="b">~</span><span id="c">$</span> cd ian.app/<!-- laglaglaglaglaglag -->about
 <span id="a">user@ian.app</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->about_ian.txt<br/><br/>
 
-My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
-
 <p>Hey There! I am Ian Eng.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <p>I am currently a Mobile Developer for Connected Health Singapore.</p>
