@@ -1,5 +1,5 @@
 <span id="a">user@ian.app</span>:<span id="b">~</span><span id="c">$</span> cd ian.app/<!-- laglaglaglaglaglag -->about
-<span id="a">user@ian.app</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->about_ian.txt<br/><br/>
+<span id="a">user@ian.app</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglag -->about_ian.txt<br/><br/>
 <p>Hey there! I am Ian Eng.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am currently a Senior Mobile Developer at Connected Health Singapore where I build a chronic disease management product that supports care for patients with Type 2 Diabetes Mellitus.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p>I began IRC scripting when I was 10 years old. This was my first foray into the realm of computer programming and through the years that followed, I continued to build on my skills and aptitude as a programmer of increasingly complex and powerful computer code.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
