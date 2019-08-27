@@ -55,7 +55,7 @@ a {
 }
 
 @media(max-width:60em) {
-    html {
-        font-size: 120%
+    #console {
+        font-size: 140%
     }
 }
