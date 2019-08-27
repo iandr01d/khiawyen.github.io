@@ -13,8 +13,8 @@ body {
     font-size: 120%;
     text-size-adjust: 140%;
     -webkit-text-size-adjust: 140%;
-    -moz-text-size-adjust: 140;
-    -ms-text-size-adjust: 140;
+    -moz-text-size-adjust: 140%;
+    -ms-text-size-adjust: 140%;
 }
 
 a {
