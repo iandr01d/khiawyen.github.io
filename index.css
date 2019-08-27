@@ -54,8 +54,8 @@ a {
     }
 }
 
-@media(min-width:60em) {
+@media(max-width:60em) {
     html {
-        font-size: 100%
+        font-size: 120%
     }
 }
