@@ -1,9 +1,8 @@
 <span id="a">user@ian.app</span>:<span id="b">~</span><span id="c">$</span> cd ian.app/<!-- laglaglaglaglaglag -->about
 <span id="a">user@ian.app</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglag -->about_ian.txt<br/><br/>
-<p>Hey there! I am Ian Eng.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I am currently a Senior Software Engineer at Connected Health Singapore where I build a chronic disease management product that supports care for patients with Type 2 Diabetes Mellitus.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>Hey there! I am Ian.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I am currently a Lead Software Engineer at Grab!</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p>I began IRC scripting when I was 10 years old. This was my first foray into the realm of computer programming and through the years that followed, I continued to build on my skills and aptitude as a programmer of increasingly complex and powerful computer code.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p>I have worked in fields like Android development, iOS development and Node.js backend development. You can obtain a copy of my resume <a href="https://drive.google.com/open?id=1qLhR_FelF9Mx47HJIl6h3u5o7-BFP_dy&export=download" target="_blank">here</a>!</p> <!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>You can visit my other online profiles at <a href="https://www.linkedin.com/in/khiawyen/" target="_blank">LinkedIn</a> and <a href="https://github.com/khiawyen" target="_blank">GitHub</a>.</p>
-<p>Please feel free to contact me via email<!-- slightdelayhere--> at <!-- longlonglongcomment --><a href="https://play.golang.org/p/aFVFwhmP2ls" target="_blank">eWl5YW50YXlAZ21haWwuY29t (in base64)</a>.</p><br/><br/>
+<p>I have worked in fields like Android development, iOS development and Node.js backend development.</p> <!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>You can visit my other online profiles at <a href="https://www.linkedin.com/in/ianeng/" target="_blank">LinkedIn</a> and <a href="https://github.com/iandr01d" target="_blank">GitHub</a>.</p>
 <span id="a">user@ian.app</span>:<span id="b">~</span><span id="c">$</span> exit 
